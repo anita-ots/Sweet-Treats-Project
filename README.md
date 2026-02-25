@@ -1,5 +1,16 @@
 # Sweet Treats Management System
 
+## About
+Sweet Treats is a bakery management system that allows different users to manage and interact with the store. The system supports multiple roles including Admin, Manager, Salesperson and Customer. Customers can browse and purchase products and receive receipts for their orders. Managers and Admins can manage products, view reports and oversee all transactions.
+
+## Features
+- Role based login system
+- Product management: allows for search,delete,update and add product buttons
+- Customer purchases and receipt generation
+- Inventory tracking and low stock alerts
+- User management for Admins to add/delete users and a view users list
+
+
 ## Setup
 1. Install NetBeans and MySQL
 2. Open MySQL Workbench and create a database called sweet_treats
